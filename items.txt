@@ -1,0 +1,3 @@
+1;Oryo Original 3 Kue;Oryo;2000;15
+2;Pepsodin Kecil;Pepsodin;5000;10
+3;Coka Kola 250ml;Coka Kola;2500;20
